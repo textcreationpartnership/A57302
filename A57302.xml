@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general epistle to the people of God, in scorn called Quakres, in England, and elsewhere</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57302</idno>
+            <idno type="STC">Wing R1482</idno>
+            <idno type="STC">ESTC R219043</idno>
+            <idno type="EEBO-CITATION">99830579</idno>
+            <idno type="PROQUEST">99830579</idno>
+            <idno type="VID">35032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57302)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35032)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1875:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general epistle to the people of God, in scorn called Quakres, in England, and elsewhere</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Ambrose Rigge.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing; date of publication from end of text.</note>
+                  <note>Reproduction of the original at the Bevan-Naish Collection, Woodbrooke College, Birmingham.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:35032:1"/>
+            <head>A General Epiſtle to the People of God, in ſcorn called <hi>Q<g ref="char:V">Ʋ</g>AKRES,</hi> in <hi>England,</hi> and elſewhere.</head>
+            <opener>
+               <salute>Dear Friends, Brethren and Siſters,</salute>
+            </opener>
+            <p>UNto whom the viſitation of Life in the Son of the Fa<g ref="char:EOLhyphen"/>ther's Love hath reached; when you were as dry bones ſcatterred upon the Earth here and there, the Com<g ref="char:EOLhyphen"/>paſſionate Eye of a tender Father was towards you, and his Word breathed Life unto you, giving you Knowledge and Un<g ref="char:EOLhyphen"/>derſtanding: And gathered you together to be his Houſehold of Faith, in this latter Age of the world. The Salutation of my dear and unfeigned, fatherly and brotherly Love at this time ex<g ref="char:EOLhyphen"/>tendeth it ſelf freely unto you all, in the heavenly unity of that one Spirit of Life, by which we were firſt quickned, who were dead in treſpaſſes and ſins as well as others: Oh that Grace, Mer<g ref="char:EOLhyphen"/>cy, Love and Truth, with all the Fruits of Righteouſneſs may grow, increaſe, and be abundantly multiplied in and amongſt you all, this my Soul daily breaths to the Lord on your behalf, who are heirs together of the Grace of God, being planted into the likeneſs of his Son, to bear his heavenly Image, and as Li<g ref="char:EOLhyphen"/>ving Members, fitly joynted and framed together under one Head, to be a compleat Body in him; you are as Living Epiſtles written with the Spirit of the Living God in one anothers Hearts, who lives and moves in your Integrity, and continues in your firſt Love without wavering, here you daily have and receive Mercies and Bleſſings from above, with a daily increaſe of Life and Vertue in your Boſoms, whereby your ſtrength is renewed
+<pb n="2" facs="tcp:35032:2"/>
+as the Morning, and you need go no more forth: for your Bread is ſure in your own Houſes, and Springs of Water in your own Wells. My Soul bleſſeth God in the Remembrance of you, who are made Living Monuments of his Mercy, and are daily waiting for the Conſolation of <hi>Iſraels</hi> God, who in this his glorious Day is fulfilling his antient Promiſe in manifeſting him, whoſe Voice is not heard in the Streets, yet ordained of God to bring forth Judgment to the <hi>Gentiles,</hi> and to be their Light and Glory, and this we are Witneſſes of in our day, through the tender mercy of our God in viſiting us with his antient Goſpel day ſpringing from on high, who ſate in darkneſs as well as others, and were by nature the Children of Wrath; When we thus laid poluted in our Blood, he ſaid unto us, <hi>Live,</hi> and his Word was an everlaſting Covenant. Oh! let all who are made pertakers of ſo great Love and Mercy, live in the daily Remembrance thereof, and walk worthy of ſo great Salvation in all <hi>Humility and Godly Sincerity,</hi> as Lights in the world, that your good Works to them may appear daily, which are the proper effects of that living Faith you have from God received, by this alone your Faith will be ſeen to live, and you in it, for all the Body without the Spirit is dead, ſo Faith without Works is dead alſo; And being planted into the likeneſs of him who is from above, you may bear his Image, and be cloathed with his Righteouſneſs, for no other Covering will hide your nakedneſs from the World, nor keep your Beauty and Comlineſs in the ſight of God.</p>
+            <p>And now my <hi>beloved Friends, Brethren</hi> and <hi>Siſters,</hi> who are of the Houſehold of Faith, ſeeing the Lord hath choſen you to place his great Name in, by the Revelation of his Son, which Ages and Generations before you knew not, as ſound and ho<g ref="char:EOLhyphen"/>nourable Veſſels in the Houſe of the Lord keep your places and ſtation, and let your Chaſte Converſation coupled with fear and gravity in every place where you dwell, be ſeen and known un<g ref="char:EOLhyphen"/>to all men, for to this purpoſe were you called and ſeparated from the Ways, Worſhips, and evil Cuſtoms of this preſent world, to be the firſt Fruits in the Lord's Vineyard, which he
+<pb n="3" facs="tcp:35032:2"/>
+hath planted with his right hand in a very fruitful Hill; Oh<hi>!</hi> wait for his watering from on high, which will be known and witneſſed as your own Hearts are kept empty and open unto him, for he is waiting to be gratious and bount<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ful to his choſen Seed, Flock and Family every where, who keep his <hi>Word</hi> and <hi>Covenant,</hi> to them he is and will be as the ſhadow of a mighty Rock, though in a weary and deſolate Land.</p>
+            <p>But he will ſift the Nations in the Sieve of his Wrath, who have diſpiſed his Word, Grace, Life and Conſolation, which is the Root and moving cauſe of all true Worſhip and Service to him; This the Corner-ſtone which <hi>Babel's</hi> Builders have reject<g ref="char:EOLhyphen"/>ed as uſeleſs to them, and thinks to reach Heaven without it, this will bring Confuſion upon all Religions on Earth<g ref="char:punc">▪</g> if they continue rejecting this Stone, their buildings, though never ſo high, will fall, for the Judgment of the great Whore is come, who hath made Nations drunk with her glittering Cup and the fall of <hi>Babylon</hi> as a Mill-ſtone into the Sea is at hand, and all her Lovers who have made Merchandize of the Souls of men, ſhall mourn and be aſtoniſhed at her deſtruction.</p>
+            <p>And now my <hi>beloved Friends</hi> and <hi>Brethren</hi> as the Lord hath called us out of her, and hath opened our Eyes to ſee her Whore<g ref="char:EOLhyphen"/>doms and Abominations among all ſorts of Profeſſions, whoſe Hearts and Minds are adulterated from God, though in words they make a large profeſſion of him, yet in Works deny him; This is <hi>Atheiſm</hi> in nature, look not back at her again, nor ſtay with her in her Suburbs, neither let any thing of her Language, Cu<g ref="char:EOLhyphen"/>ſtoms or Nature remain, for that will lead to depart from the living God and his heavenly <hi>Jeruſalem,</hi> to the love of her again, who is the Mother of Harlots and Abomination of the Earth.</p>
+            <p>Oh! the exceeding Riches of the Father's Love, who hath not called us unto Wrath, but to obtain Mercy, in turning every one of us from our Iniquities, who have loved and obeyed his Truth. Therefore as dear Children of one Father, let us live in all humble ſubjection unto him, who hath begotten us again unto a living hope by the Word of his Power, to be the firſt Fruits unto
+<pb n="4" facs="tcp:35032:3"/>
+his Glory in theſe latter Ages of the World, in which he will be glorified, in, by, and thorow us, or without us: For of Stones he can raiſe up Children unto <hi>Abraham,</hi> who ſhall glorifie his Name in the day of their Viſitation, by walking in his Light and Covenant. But if we walk in the Light as Children of the day, in watchfulneſs, ſobriety and honeſty, we ſhall keep our holy <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> and Fellowſhip one with another, without Jar or Strife, Debate or Contention, and the Blood of Jeſus Chriſt his Son, we ſhall daily witneſs to cleanſe us from our Sin, and then the good purpoſe of the Lord will be anſwered in viſiting us with his hea<g ref="char:EOLhyphen"/>venly Goſpel day, which dawned and ſprung in our hearts, by which the Seat of Antichriſt hath been diſcovered, and the hid<g ref="char:EOLhyphen"/>den things of <hi>Eſau</hi> brought to light, which nothing could mani<g ref="char:EOLhyphen"/>feſt but the ariſing and appearance of the Son of Righteouſneſs in the Hearts of the Sons of men, by this Goſpel-day with which God hath viſited us, is all falſe Spirits upon the Earth diſcerned, and every deed of darkneſs manifeſted, yea the very Seat of Antichriſt diſcovered. In the firſt breaking forth of this day God made us a willing People, and put upon us the Helmet of Salvation, and girded us with the Sword of the Spirit, and made us able to War with the Dragon and his Power, and thorow Faith gave us ma<g ref="char:EOLhyphen"/>ny and great Victories, yea we were made more then Conquerers.</p>
+            <p>Oh! the ſweet remembrance of this day is now with me, who am warned to warn you, to live in a daily ſence and conſideration of the height, depth, breath and length of the love of God, and his tender mercy to us ward, <hi>who are by Nature Children of Wrath as well as others, and ſate in darkneſs and in the region of the ſhadow of dea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h;</hi> And when we recount the vile ſort of men, we can ſay ſuch were ſome of us, but God hath mercifully waſhed our Garments in the Blood of his dear Son, and hath put upon us the <hi>Garments of Praiſe for the Spirit of heavineſs,</hi> which ſurrounded us in the long and dark night of Apoſtacy, which hath been over the world for Ages and Generations before we had our beings; <hi>but the Darkneſs is paſt, and the true Light now ſhineth.</hi> Oh! that the remembrance of that exceeding Riches and kindneſs which
+<pb n="5" facs="tcp:35032:3"/>
+God hath manifeſted in us, may ever be with us, and that we may walk worthy of ſo high a Calling in all holy Converſation and Godlineſs, for to this end were we called and ſeparated from a<g ref="char:EOLhyphen"/>mong many, to be the firſt Fruits unto God in this latter age of the world, and hereby will his Name be renowned through<g ref="char:EOLhyphen"/>out the world by us, as we daily walk in a holy Converſation coupled with fear, lowlineſs, and tenderneſs, for ſo is our ſubjecti<g ref="char:EOLhyphen"/>on to him manifeſted, and the ſame Witneſs which we have re<g ref="char:EOLhyphen"/>ceived be reached and raiſed in the Hearts and Conſciences of the Sons of men<g ref="char:punc">▪</g> who will not otherwiſe be reached, and they will bleſs God on our behalf in the day of their viſitation. But if any walk looſely, and let go the Girdle of Truth, and begin to eat and drink with the Drunkards, and to contend with, or beat their fellow Servant, or draw back into a fleſhly liberty, whereby the Croſs of Chriſt is thrown aſide, neglected and deſpiſed, <hi>the Lord of that Servant will appear in a day when he is leaſt aware of him, and appoint him his Portion with Hypocrites, where is weeping forever.</hi> For God will not now be mocked with any People or Profeſſion; <hi>they who ſow to the Fleſh ſhall dye, wither and inherit Corruption, but they who ſow to the Sperit of Truth, and walk in its Law, ſhall live and flouriſh, and reap Life and Vertue daily;</hi> For its Miniſtration is the laſt and greateſt the world ſhall be viſited withal, where<g ref="char:EOLhyphen"/>by Life and Immortality ſhall again appear to all Nations, Kin<g ref="char:EOLhyphen"/>dreds, and Tongues upon the face of the Earth; if they receive and walk in it, for it is ordained of God to be the guide of Life to all the Sons and Daughters of <hi>Adam,</hi> to lead them out of the fall into the way of Peace, and ſhall fulfil the laſt and great Pro<g ref="char:EOLhyphen"/>pheſie, <hi>Rev.</hi> 21. 24. <hi>That the Nations of them that are ſaved ſhall walk in the Light of the Lamb, and the Kings of the Earth ſhall bring their glory and honour unto it, and the Glory and Honour of the Gentiles ſhall be brought unto it,</hi> ver. 26. This is begun to be ful<g ref="char:EOLhyphen"/>filled in the Earth, and many are come &amp; coming to the brightneſs of his riſing, whoſe coming is as the Light which ariſeth in the Eaſt and ſhineth to the Weſt, that none may be left unviſited with this glory; but all who ſhut their Eyes from this glorious Sun ſhall have no benefit by his appearance, but ſhall ſtumble and
+<pb n="6" facs="tcp:35032:4"/>
+fall, and riſe no more unto Life, Peace, and Salvation, and ſhall dye in their Sins &amp; periſh in their Unrighteouſneſs, for none can have the benefit either of the Death, Paſſion, or Reſurrection of Jeſus, purpoſed of God for all mankind, but who doth believe, receive and follow him, who went before and trod the Wine-preſs alone. And as the rejecting of him in his outward appearance, was the ru<g ref="char:EOLhyphen"/>in of the outward <hi>Jews</hi> even ſo the diſpiſing of him in his inward and ſpiritual appearance will be the ruin and downfall of the out<g ref="char:EOLhyphen"/>ward <hi>Chriſtians,</hi> this Teſtimony I muſt leave to the world, and it ſhall live &amp; be fulfilled when Iam gone hence, no more to be ſeen.</p>
+            <p>But you my dearly beloved Friends and Brethren who have accepted of this day, and have opened your Eyes to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ehold the glorious Son of Righteouſneſs, which is now riſen wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h healing in his Wings, let your moderation appear to all men, and walk honeſtly as in the day, and keep on your Breaſt-plate of Faith that the Enemy wound <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou not, for your Sincerity is within your Spiritual Armour, in your holy Mountain where no devourer can come.</p>
+            <p>And though the Lord hath taken Peace from the Earth, where Righte<g ref="char:EOLhyphen"/>ouſneſs dwells not, and one Mountain riſes againſt another and beat one another to duſt, be not troubled at theſe things for they muſt be, and alſo Famines, Peſtilences and Earthquakes in divers places, they are but the beginning of Sorrows, to them who have deſpiſed the Mercy and Long-ſufferings of the Lord, and hath ſleighted and neglected the day of their Viſitation, which hath been for many years, in which he hath ſtrove with them by his Spirit, and hath waited to be good and gratious to the worſt of men, but they have not known nor conſidered in this their day, the things which belong to their peace. I pray God it be not hid from their Eyes, but we are commanded to ſay, whatever befalls the world, it ſhall go well with the Righteous in it; therefore ſtand ſtill in your Tent doors, and quietly wait to ſee the Salvation of God thorow all theſe Over<g ref="char:EOLhyphen"/>turnings which he ſuffers to be in the Earth.</p>
+            <p>Often would the Lord have gathered ENGLAND under the ſhadow of his Wing and Power, but they [I mean the greater part.] have refu<g ref="char:EOLhyphen"/>ſed to be gathered, and hate to be reformed, of this I am a living Wit<g ref="char:EOLhyphen"/>neſs, they were invited to the Marriage Supper of the Lamb, but they have made ſeveral Excuſes, yea wilful and obſtinate refuſals to come, which hath kindled the wrath of the Maſter of the Feaſt, to ſay they ſhall not taſte at my Table. And he will invite other Gueſts more hungry and
+<pb n="7" facs="tcp:35032:4"/>
+willing to come, who ſhall fill his Houſe: Of this we have, and may yet be more Eye-witneſſes, for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is ſhaking the Earth and Heavens, that that which is to be ſhaken may be removed, that the Foundation which cannot be ſhaken may remain ſure forever. And he will gather his Sheep out of all Kingdoms, and from all barren Mountains where they have been ſcattered in this cloudy and dark night, which hath continued for Ages and Generations before us.</p>
+            <p>Therefore dear Friends, lift up your Heads in the dominion of Gods power, of which you are made partakers, for your deliverance by it (if you continue in it to the end) is determined of God, let none expect deliverance by outward might nor power, that is by the Arm of fleſh, for that will fail and wither as the Graſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. But in Mount <hi>Zion</hi> is deli<g ref="char:EOLhyphen"/>verance, according to the Word of the Lord, and in the Remnant whom he hath choſen. So mind not the Buſles and Hurryings in the world, nor the Overturnings among men, for through all theſe things will the Lord ſet up the Kingdom of his beloved Son, which is a Spiritual Kingdom of Peace and Righteouſneſs.</p>
+            <p>The Earth was filled with Violence before the Flood, and as it was in the days of <hi>Noah,</hi> ſo it is at the coming of the Son of man, and had <hi>Noah</hi> joyned with the violence of the Old World, he had been drown<g ref="char:EOLhyphen"/>ed with them, but he loved Righteouſneſs, and walked in it before the Lord in that Generation; and therefore the Lord <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad mercy upon him and delivered him from that general deſtruction which drowned the World of ungodly men.</p>
+            <p>The Earth is now filled with Violence, and corrupted through Ini<g ref="char:EOLhyphen"/>quity, and the Lord hath begun to viſit the Nation with his ſore diſplea<g ref="char:EOLhyphen"/>ſure, therefore to your Habitation in the Lord, Oh! ye his <hi>Iſrael:</hi> And power is given to the Devourer, who is without to deſtroy much fleſh; The unbaptized in heart ſhall fall by the Sword of the Lord, who hath reſiſted his holy Spirit, as did the uncircumciſed in the days of Old; this was, is, and will be the Ruin of all empty Profeſſions upon the Earth, for he is not a Chriſtian that is one outward, neither is that Baptiſm that is outward in the Fleſh, but he is a Chriſtian who is one inward; and Baptiſm is that of the Heart in the Spirit, whoſe praiſe is not of men, but of God. And the ſaving knowledge of Chriſt is not after the fleſh, 2 <hi>Cor.</hi> 5 16. <hi>For henceforth know w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him ſo no more,</hi> that is after the fleſh, and n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> man knows the things of God but the Spirit of God, it muſt be re<g ref="char:EOLhyphen"/>ceived, and knowledge wai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, by and through it, which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lone is or<g ref="char:EOLhyphen"/>dained of God to give to all mankind, knowledge and underſtanding in
+<pb n="8" facs="tcp:35032:5" rendition="simple:additions"/>
+things relating to his Kingdom, it is the Root and Foundation of all true Religion, and without it there is none true in the Earth, the true Worſhip ſtands in it now as in times paſt, which ſhall end the Temple worſhip, that ſtands in bodily exerciſe; it will be left to be trodden down of the <hi>Gentiles,</hi> for it is the outward Court, where the glory of God ſhines not; but the inward Court are the Spiritual Worſhippers be<g ref="char:EOLhyphen"/>fore the Al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar, where the preſence of God opens Life and the treaſury of it to the Soul, which they pertake of, who wait to be renewed in Spirit before the Lord.</p>
+            <p>And now my <hi>beloved Friends</hi> and <hi>Brethren,</hi> as we are made a compleat Body in him, our heavenly Head, let an holy and heavenly Harmony he continued amongſt us, for Unity is our ſtrength, therefore labour to re<g ref="char:EOLhyphen"/>tain and keep it every where, that every Member of the Body may be nou<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hed and kept alive by vertue of the Life within, and have a tender care of disjoynting any living Member, but let all be edified together in Love, and every Member act in its place to the honour of the Head; and above all, keep the Unity of the Spirit in the bond of peace, for ſo is the Will of God concerning us, that our Sons may be as Plants growing up in their Youth, walking the Steps of their Fathers, and our Daughters as Virgins with their Lamps trimed and burning, waiting for the Bridegroom, and be ſtedfaſt in him, and in the Word of his Grace, and keep the holy order of the Goſpel without wavering, and let every wholſom Order that is e<g ref="char:EOLhyphen"/>ſtabliſhed among you, [which is Comly and of good Report] be kept up and practiſed, &amp; keep the Reign of Truth and Power of God over every Evil-doer, with<g ref="char:EOLhyphen"/>out partiality, ſo will the Lord crown you with dominion over the power of darkneſs eve<g ref="char:EOLhyphen"/>ry where, for the true Light of which we have born teſtimony, is the Seed of the King<g ref="char:EOLhyphen"/>dom of God, which muſt increaſe till by it the <hi>knowledge of the glory of God again cover the Earth as the Waters cover the Sea;</hi> therefore cheriſh this Seed every where, in whomſoever it is ariſing; for it is the Life and Power of Godlineſs, not the form, that muſt in rich the World with Righteouſneſs, and fill the Earth with Bleſſings.</p>
+            <p>And if we, or an Angel from Heaven preach any other Goſpel, or proclaim any other Name then that which you have received, and in which you have believed and found Sal<g ref="char:EOLhyphen"/>vation and deliverance, receive us not into your Houſes, for God is one, and his Name one; and there <hi>is not another by which any man can be ſaved,</hi> &amp; this name is <hi>Jeſus the Anointed of God the Father,</hi> who is now come to ſave his People, <hi>from</hi> [not in,] there Sin, <hi>[mark that]</hi> for ſo he was <hi>Gods Salvation</hi> in the true <hi>Goſpel Day,</hi> and ſo we have proclaimed him in our day, and many have ſo received him, <hi>to whm he hath given Power to become his Sons and Daughters, Servants and Handmaids in his Houſe,</hi> who are his Flock and Family, and hath Bread enough, and living Water in their own Veſſels, and none need go no more forth, <hi>all holy Praiſes be given to the Lord, and to the Lamb forever and ever.</hi>
+            </p>
+            <p>Finally, <hi>dear Friends</hi> and <hi>Brethren,</hi> be ſtrong in the Lord, and in the power of his might, and the God of Peace be with you all, ſtrengthen, ſtabliſh, ſettle you upon the Rock of Ages, in full and perfect unity with God, and one with another, in which I bid you all Farewell, and remain</p>
+            <closer>
+               <dateline>
+                  <hi>Reigate</hi> in <hi>Surrey</hi> 
+                  <date>the 2d. of 9th, Month, 1693.</date>
+               </dateline>
+               <signed>
+                  <hi>Your true Friend and Brother in the Bond of Love and Peace,</hi> AMBROSE RIGGE<g ref="char:punc">▪</g>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
